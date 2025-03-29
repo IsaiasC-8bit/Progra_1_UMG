@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1742345113 source:c:\users\isaia\onedrive\escritorio\proyectos programación i (c++)\codigo_c++\micalculadora\controlcalculadora\main.cpp
+	<iostream>
+	"calculadoraclass.h"
+
+1742343566 c:\users\isaia\onedrive\escritorio\proyectos programación i (c++)\codigo_c++\micalculadora\controlcalculadora\include\calculadoraclass.h
+	<iostream>
+
+1742344674 source:c:\users\isaia\onedrive\escritorio\proyectos programación i (c++)\codigo_c++\micalculadora\controlcalculadora\src\calculadoraclass.cpp
+	"calculadoraclass.h"
+
