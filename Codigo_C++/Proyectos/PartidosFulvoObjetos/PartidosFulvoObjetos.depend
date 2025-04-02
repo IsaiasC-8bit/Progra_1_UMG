@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1743267823 source:c:\users\isaia\onedrive\escritorio\proyectos programación i (c++)\codigo_c++\proyectos\juegos\partidosfulvoobjetos\src\liga.cpp
+	"liga.h"
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<ctime>
+
+1743267764 c:\users\isaia\onedrive\escritorio\proyectos programación i (c++)\codigo_c++\proyectos\juegos\partidosfulvoobjetos\include\liga.h
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<ctime>
+
+1743268026 source:c:\users\isaia\onedrive\escritorio\proyectos programación i (c++)\codigo_c++\proyectos\juegos\partidosfulvoobjetos\main.cpp
+	<iostream>
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<ctime>
+	"liga.h"
+
